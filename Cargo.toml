@@ -7,7 +7,8 @@ license-file = "LICENSE"
 readme = "README.md"
 
 [dependencies]
-bevy = { version = "0.16", features = ["wayland"] }
+bevy = "0.17"
+bevy-inspector-egui = "0.35.0"
 
 [profile.dev]
 opt-level = 1

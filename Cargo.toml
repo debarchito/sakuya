@@ -1,7 +1,7 @@
 [package]
 name = "sakuya"
 version = "0.1.0"
-description = "A rogue-like metroidvania game in the making!"
+description = "A game in the making!"
 edition = "2024"
 license-file = "LICENSE"
 readme = "README.md"
